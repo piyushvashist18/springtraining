@@ -1,0 +1,11 @@
+2020-12-30 00:29:23,398 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(615)-127.0.0.1] Application shutdown requested.
+2020-12-30 00:29:23,398 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(612)-127.0.0.1] Application shutdown requested.
+2020-12-30 00:29:23,465 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(613)-127.0.0.1] Application shutdown requested.
+2020-12-30 00:29:23,398 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(616)-127.0.0.1] Application shutdown requested.
+2020-12-30 00:29:23,387 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(614)-127.0.0.1] Application shutdown requested.
+2020-12-30 00:29:23,626 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(617)-127.0.0.1] Application shutdown requested.
+2020-12-30 00:29:23,887 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(618)-127.0.0.1] Application shutdown requested.
+2020-12-30 00:29:24,423 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [RMI TCP Connection(613)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-30 00:29:24,428 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [RMI TCP Connection(613)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-12-30 00:29:24,898 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(613)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2020-12-30 00:29:29,728 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(613)-127.0.0.1] HikariPool-1 - Shutdown completed.
